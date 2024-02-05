@@ -1,0 +1,43 @@
+body {
+    background-color: lightcoral;
+}
+
+header{
+    text-align: center;
+    background-color: lightcyan;
+    font-family: 'Protest Riot', sans-serif;
+}
+
+.logo { 
+    height: 256px;
+    width: 256px;
+    border-radius: 126px;
+    border: 10px solid grey;
+}
+
+.whatis{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Protest Riot', sans-serif;
+}
+
+.paragraph{
+    text-align: center;
+    font-size: 30px;
+}
+
+.portfolio{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Protest Riot', sans-serif;
+}
+
+.chain1,
+.chain2,
+.chain3,
+.chain4,
+.clothing1,
+.clothing2{
+    height: 270px;
+    width: 480px;
+}
